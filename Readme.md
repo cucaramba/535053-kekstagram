@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Олег Ракитский](https://up.htmlacademy.ru/javascript/11/user/535053).
-* Наставник: `Неизвестно`.
+* Наставник: `Николай Загорный`.
 
 ---
 
